@@ -1,3 +1,3 @@
 # Fork Experiment
 
-This repo is the upstream repo for the fork sync experiment.
+This repo is the upstream main repo for the fork sync experiment.
